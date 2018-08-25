@@ -15,18 +15,18 @@ DEMO version
 * `main.py`：主函数入口</br>
 
 ## 一般建模思路_Frame
-![](https://github.com/KaygoYM/Big_Data_Prediction/tree/master/Pictures/frame.png)</br>
+![](https://github.com/KaygoYM/Big-Data-Prediction/blob/master/Pictures/frame.png)</br>
 **具体细节，请细看demo代码的注释部分!**</br>
 
 ## 效果_Results
-*对于DEMO部分，最终验证的`MSE: 12.7812`，`MAE: 2.5694`。验证效果图如下：</br>
-![](https://github.com/KaygoYM/Big_Data_Prediction/tree/master/Pictures/Demo_show.png)</br>
+*对于DEMO部分，最终验证的`MSE: 12.7812`，`MAE: 2.5694`。验证效果图如下：*</br>
+![](https://github.com/KaygoYM/Big-Data-Prediction/blob/master/Pictures/Demo_show.png)</br>
 
-*对于实际项目部分，(脱敏后的)结果展示如下：
-![](https://github.com/KaygoYM/Big_Data_Prediction/tree/master/Pictures/project_show.png)</br>
+*对于实际项目部分，(脱敏后的)结果展示如下：*</br>
+![](https://github.com/KaygoYM/Big-Data-Prediction/blob/master/Pictures/project_show.png)</br>
 可见，我们的模型的验证表现还是相当不错的。</br>
 
-![](https://github.com/KaygoYM/Big_Data_Prediction/tree/master/Pictures/Result_version1_collection.png)</br>
+![](https://github.com/KaygoYM/Big-Data-Prediction/blob/master/Pictures/Result_version1_collection.png)</br>
 当然我们也尝试了多种方法和不同的评价指标。</br>
 可见【特征工程】+【模型】的选择好坏对最终效果有非常大的影响！(具体用了啥就不透露啦~)</br>
 
