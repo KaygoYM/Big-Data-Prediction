@@ -26,7 +26,7 @@ DEMO version
 ![](https://github.com/KaygoYM/Big-Data-Prediction/blob/master/Pictures/project_show.png)</br>
 可见，我们的模型的验证表现还是相当不错的。</br>
 
-![](https://github.com/KaygoYM/Big-Data-Prediction/blob/master/Pictures/Result_version1_collection.png)</br>
+![](https://github.com/KaygoYM/Big-Data-Prediction/blob/master/Pictures/Result_version1_collection.jpg)</br>
 当然我们也尝试了多种方法和不同的评价指标。</br>
 可见【特征工程】+【模型】的选择好坏对最终效果有非常大的影响！(具体用了啥就不透露啦~)</br>
 
